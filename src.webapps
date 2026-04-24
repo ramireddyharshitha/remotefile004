@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Food Menu</title>
+</head>
+<body style="text-align:center; font-family: Arial;">
+
+    <h1>🍽️ Our Delicious Menu</h1>
+
+    <h2>🍕 Pizza</h2>
+    <p>Cheese Pizza - ₹199</p>
+    <p>Veg Pizza - ₹249</p>
+
+    <h2>🍔 Burgers</h2>
+    <p>Veg Burger - ₹99</p>
+    <p>Cheese Burger - ₹129</p>
+
+    <h2>🍜 Noodles</h2>
+    <p>Veg Noodles - ₹149</p>
+    <p>Chicken Noodles - ₹179</p>
+
+    <h2>🥤 Drinks</h2>
+    <p>Coke - ₹50</p>
+    <p>Juice - ₹70</p>
+
+    <br><br>
+    <a href="index.jsp">⬅ Back to Home</a>
+
+</body>
+</html>
